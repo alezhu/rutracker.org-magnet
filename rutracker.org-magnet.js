@@ -2,7 +2,6 @@
 // @id             rutracker.org-magnet
 // @name           rutracker.org magnet
 // @version        1.0
-// @namespace      
 // @author         alezhu
 // @description    Добавляет на страницу с раздачей magnet-ссылку (там где хэш)
 // @include        http://*.rutracker.org/* 
